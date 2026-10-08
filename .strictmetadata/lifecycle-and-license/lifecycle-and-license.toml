@@ -9,3 +9,11 @@ subject = "tree-sitter-python"
 license = "MIT"
 from = 2026-10-08
 reason = "the license of upstream tree-sitter-python, as its license file states"
+[[identities]]
+subject = "tree-sitter-python"
+facet = "releasable-name"
+value = "tree-sitter-python"
+registry = ""
+tag_patterns = ["v*"]
+from = 2026-10-08
+reason = "the repository's name, under which cgofree releases it"
